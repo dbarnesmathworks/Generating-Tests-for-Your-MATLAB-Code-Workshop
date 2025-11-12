@@ -1,6 +1,6 @@
-[![MATLAB](https://github.com/mathworks/Generating-Tests-for-Your-MATLAB-Code-Workshop/actions/workflows/ci.yml/badge.svg)](https://github.com/mathworks/Generating-Tests-for-Your-MATLAB-Code-Workshop/actions/workflows/ci.yml)
-[![Tests](https://img.shields.io/badge/Tests-Open_Test_Report-blue)](https://mathworks.github.io/Generating-Tests-for-Your-MATLAB-Code-Workshop/tests/)
-[![Coverage](https://img.shields.io/badge/Coverage-Open_Code_Coverage_Report-orange)](https://mathworks.github.io/Generating-Tests-for-Your-MATLAB-Code-Workshop/coverage/)
+[![MATLAB](https://github.com/dbarnesmathworks/Generating-Tests-for-Your-MATLAB-Code-Workshop/actions/workflows/ci.yml/badge.svg)](https://github.com/dbarnesmathworks/Generating-Tests-for-Your-MATLAB-Code-Workshop/actions/workflows/ci.yml)
+[![Tests](https://img.shields.io/badge/Tests-Open_Test_Report-blue)](https://dbarnesmathworks.github.io/Generating-Tests-for-Your-MATLAB-Code-Workshop/tests/)
+[![Coverage](https://img.shields.io/badge/Coverage-Open_Code_Coverage_Report-orange)](https://dbarnesmathworks.github.io/Generating-Tests-for-Your-MATLAB-Code-Workshop/coverage/)
 
 # Generating Tests for Your MATLAB<sup>&reg;</sup> Code Workshop
 
